@@ -1,0 +1,6 @@
+1.两次pb文件格式的区别？
+2.freeze函数为啥对有的模型有效有的无效？
+bug：tuple out of range
+3.查看npy文件时，为什么matplotlib库是正常图像，PIL读就是全白？
+opencv, PIL，Matplotlib这几个库读取保存图像有什么区别？
+4.为什么在板子上用cv.imwrite()不起作用？
